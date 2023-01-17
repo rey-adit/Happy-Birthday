@@ -140,6 +140,13 @@ body {
   width: 100vw;
 }
 
+.seven, .eight {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
 .eight svg {
   left: 0;
   position: absolute;
